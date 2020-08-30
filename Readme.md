@@ -212,12 +212,3 @@ _51 - Verify or Install Nodejs- no code_
 
 [109 - FInal Build](../../tree/7ce03e49253bed9e4a55f5ab985f92b047fa736c/)
 
-**110 - Thank you and next steps** _no code_
-
-Next steps:
-- Large File Uploads for Images ~ [Dive into AWS](https://cfe.sh/courses/aws)
-- Notifications
-- Direct Messages / Private Inboxes ~ [Chat x Channels](https://cfe.sh/courses/chat-channels-react)
-- Explore -> parse & filter for hashtags
-
-
